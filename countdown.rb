@@ -21,5 +21,5 @@
    num -= 1
  
   end
-   "HAPPY NEW YEAR!"
+   puts "HAPPY NEW YEAR!"
  end

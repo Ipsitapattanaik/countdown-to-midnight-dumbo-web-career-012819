@@ -17,7 +17,7 @@
   while num > 0
  
     puts "#{num} SECOND(S)!"
-   sleep(5)
+   sleep(2)
    num -= 1
  
   end
